@@ -1,1 +1,1 @@
-[Berty.tech](https://berty.tech) - [Twitter](https://twitter.com/berty) - [iOS](https://apps.apple.com/tt/app/berty/id1535500412) - [Android](https://play.google.com/store/apps/details?id=tech.berty.android)
+[Berty.tech](https://berty.tech) - [Discord](https://berty.tech/discord) - [Twitter](https://twitter.com/berty) - [iOS](https://apps.apple.com/tt/app/berty/id1535500412) - [Android](https://play.google.com/store/apps/details?id=tech.berty.android)
